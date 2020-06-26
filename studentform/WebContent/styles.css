@@ -1,0 +1,51 @@
+body{
+	background-color: lightgray;
+}
+
+
+.form-class {
+    background-color: whitesmoke;
+    
+    margin-left: 10px;
+    border: 5px blue solid;
+    color: red;
+}
+
+h1 {
+    color:blue;
+    border: 5px blue solid;
+    font-size: 70px;
+    font-family: cursive, Lato;
+}
+
+.survey-form {
+    font-family: Candara, Arial, sans-serif;
+    padding-left: 20px;
+    line-height: 2;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-bottom: 70px;
+}
+
+#fname {
+   margin-bottom: 15px;
+}
+
+label{
+    background-color: beige;
+}
+
+p{
+ background-color: beige;
+    padding: 0;
+     margin: 0;
+    margin-right: 700px;
+}
+
+button {
+    color: aliceblue;
+    background: black;
+    padding: 10px 20px;
+}
+
+
